@@ -15,3 +15,5 @@ Breve análise sobre o desempenho dos discentes na disciplina de `Resolução de
 [author2]: https://avatars0.githubusercontent.com/u/13901866?s=180&v=4
 [author3]: https://avatars2.githubusercontent.com/u/13789841?s=180&v=4
 [author4]: https://avatars2.githubusercontent.com/u/26307077?s=180&v=4
+
+[Vídeo da apresentação](Not Uploaded YET)
